@@ -1,0 +1,899 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooNti\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-03-21 19:26+0300\n"
+"PO-Revision-Date: 2018-03-21 19:26+0300\n"
+"Last-Translator: Anton Lokotkov (ziscod) <fakeemail@fakeemail.com>\n"
+"Language-Team: Ziscod\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr__;esc_html__;esc_attr_e;esc_html_e;_n;"
+"esc_attr;esc_html\n"
+"X-Poedit-Basepath: ..\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-SearchPath-0: ./includes/.\n"
+
+#: includes/./class-woonti_admin.php:41
+msgid "Main"
+msgstr "Основные настройки"
+
+#: includes/./class-woonti_admin.php:45
+msgid "Status"
+msgstr "Статус"
+
+#: includes/./class-woonti_admin.php:47
+msgid "Enable or disable WooNti notifications."
+msgstr "Включение и отключение уведомлений плагина WooNti."
+
+#: includes/./class-woonti_admin.php:51
+msgid "Enable"
+msgstr "Включить"
+
+#: includes/./class-woonti_admin.php:52
+msgid "Disable"
+msgstr "Отключить"
+
+#: includes/./class-woonti_admin.php:57
+msgid "Transition"
+msgstr "Переход"
+
+#: includes/./class-woonti_admin.php:59
+msgid ""
+"Name of the CSS transition that will be used to show and hide the "
+"notifications."
+msgstr ""
+"Имя перехода CSS, который будет использоваться для отображения и скрытия "
+"уведомления."
+
+#: includes/./class-woonti_admin.php:63
+msgid "Fade"
+msgstr "Fade"
+
+#: includes/./class-woonti_admin.php:64
+msgid "Slide and Left Fade"
+msgstr "Slide and Left Fade"
+
+#: includes/./class-woonti_admin.php:65
+msgid "Slide and Left Right Fade"
+msgstr "Slide and Left Right Fade"
+
+#: includes/./class-woonti_admin.php:66
+msgid "Slide and Right Fade"
+msgstr "Slide and Right Fade"
+
+#: includes/./class-woonti_admin.php:67
+msgid "Slide and Right-Left Fade"
+msgstr "Slide and Right-Left Fade"
+
+#: includes/./class-woonti_admin.php:68
+msgid "Slide and Up Fade"
+msgstr "Slide and Up Fade"
+
+#: includes/./class-woonti_admin.php:69
+msgid "Slide and Up-Down Fade"
+msgstr "Slide and Up-Down Fade"
+
+#: includes/./class-woonti_admin.php:70
+msgid "Slide and Down Fade"
+msgstr "Slide and Down Fade"
+
+#: includes/./class-woonti_admin.php:71
+msgid "Slide and Down-Up Fade"
+msgstr "Slide and Down-Up Fade"
+
+#: includes/./class-woonti_admin.php:72
+msgid "Pin It Up"
+msgstr "Pin It Up"
+
+#: includes/./class-woonti_admin.php:73
+msgid "Pin It Down"
+msgstr "Pin It Down"
+
+#: includes/./class-woonti_admin.php:78
+msgid "Duration"
+msgstr "Длительность"
+
+#: includes/./class-woonti_admin.php:80
+msgid ""
+"Duration that the messages will be displayed in milliseconds. Default value "
+"is set to 4000 (4 seconds). If it set to 0, the duration for each message is "
+"calculated by message length."
+msgstr ""
+"Продолжительность, в течение которой сообщения будут отображаться в "
+"миллисекундах. Значение по умолчанию - 4000 (4 секунды). Если  установлено - "
+"0, то продолжительность для каждого сообщения вычисляется по длине сообщения."
+
+#: includes/./class-woonti_admin.php:89
+msgid "Sounds"
+msgstr "Звуки"
+
+#: includes/./class-woonti_admin.php:91
+msgid "Enable or disable sounds."
+msgstr "Включить или выключить звуковые уведомления."
+
+#: includes/./class-woonti_admin.php:95 includes/./class-woonti_admin.php:130
+#: includes/./class-woonti_admin.php:142 includes/./class-woonti_admin.php:154
+msgid "Yes"
+msgstr "Да"
+
+#: includes/./class-woonti_admin.php:96 includes/./class-woonti_admin.php:131
+#: includes/./class-woonti_admin.php:143 includes/./class-woonti_admin.php:155
+msgid "No"
+msgstr "Нет"
+
+#: includes/./class-woonti_admin.php:100
+msgid "Info:"
+msgstr "Информация:"
+
+#: includes/./class-woonti_admin.php:103 includes/./class-woonti_admin.php:110
+#: includes/./class-woonti_admin.php:117
+msgid "Choose mp3 file"
+msgstr "Выберите mp3 файл"
+
+#: includes/./class-woonti_admin.php:104
+msgid "Path to sound for informational message."
+msgstr "Путь к мелодии информационного сообщения."
+
+#: includes/./class-woonti_admin.php:107
+msgid "Success:"
+msgstr "Успех:"
+
+#: includes/./class-woonti_admin.php:111
+msgid "Path to sound for successfull message."
+msgstr "Путь к мелодии успешного сообщения."
+
+#: includes/./class-woonti_admin.php:114
+msgid "Error:"
+msgstr "Ошибка:"
+
+#: includes/./class-woonti_admin.php:118
+msgid "Path to sound for error message."
+msgstr "Путь к мелодии сообщения об ошибке."
+
+#: includes/./class-woonti_admin.php:124
+msgid "Auto Close"
+msgstr "Автоматическое закрытие"
+
+#: includes/./class-woonti_admin.php:126
+msgid "Enable or disable auto hiding on messages."
+msgstr "Включить или отключить автоматическое закрытие сообщений."
+
+#: includes/./class-woonti_admin.php:136
+msgid "Progress Bar"
+msgstr "Полоса прогресса"
+
+#: includes/./class-woonti_admin.php:138
+msgid "Enable or disable the progressbar."
+msgstr "Включить или отключить полосу прогресса."
+
+#: includes/./class-woonti_admin.php:148
+msgid "Insert Before..."
+msgstr "Вставить перед..."
+
+#: includes/./class-woonti_admin.php:150
+msgid ""
+"Specifies the way in which the notification will be inserted in the html "
+"code. Yes - and the messages will be inserted before those already generated "
+"message, No - otherwise."
+msgstr ""
+"Порядок отображения сообщений. Да - новые сообщения появляются под старыми "
+"сообщениями. Нет - наоборот."
+
+#: includes/./class-woonti_admin.php:160
+msgid "Class Name"
+msgstr "Класс"
+
+#: includes/./class-woonti_admin.php:162
+msgid ""
+"Main class name used to styling each message with CSS. If you change this, "
+"the configuration consider that you´re re-stylized the plugin and default "
+"styles, including css3 transitions are lost."
+msgstr ""
+"Класс по умолчанию используется для стилизации сообщений. Вы можете вставить "
+"свой класс для стилизации сообщений на свой вкус. Однако, помните, что "
+"изменение данной опции полностью обнулит стили для всех текущих WooNti "
+"сообщений."
+
+#: includes/./class-woonti_admin.php:171
+msgid "Templates"
+msgstr "Шаблоны"
+
+#: includes/./class-woonti_admin.php:175
+msgid "Choose a template for the messages"
+msgstr "Выберите готовый шаблон для уведомлений"
+
+#: includes/./class-woonti_admin.php:177
+msgid ""
+"Sets different message styles. You can also customize any Message template "
+"by just copying it from the woonti/templates/*.php directory to your theme - "
+"yourtheme/woonti/*.php."
+msgstr ""
+"С помощью этой настройки вы можете установить различные шаблоны для ваших "
+"сообщений. Вы также можете более глубже настроить каждое сообщение, "
+"скопировав нужные вам файлы из директории плагина - woonti/templates/*.php в "
+"вашу тему - yourtheme/woonti/*.php."
+
+#: includes/./class-woonti_admin.php:181
+msgid "Default"
+msgstr "По умолчанию"
+
+#: includes/./class-woonti_admin.php:182
+msgid "Icons"
+msgstr "Иконки"
+
+#: includes/./class-woonti_admin.php:183
+msgid "Images"
+msgstr "Миниатюры"
+
+#: includes/./class-woonti_admin.php:184
+msgid "New Year"
+msgstr "Новый год"
+
+#: includes/./class-woonti_admin.php:191
+msgid "Events"
+msgstr "События"
+
+#: includes/./class-woonti_admin.php:193
+msgid ""
+"Please, do not change anything here if you do not know the JavaScript "
+"language."
+msgstr "Пожалуйста ничего не меняйте если не знакомы с JavaScript."
+
+#: includes/./class-woonti_admin.php:196
+msgid "onShow"
+msgstr "onShow"
+
+#: includes/./class-woonti_admin.php:198
+msgid ""
+"`... onShow : function (type) {YOUR_CODE_HERE} ...` - onShow function will "
+"be fired when a message appears."
+msgstr ""
+"`... onShow : function (type) {YOUR_CODE_HERE} ...` - метод, который "
+"срабатывает при открытии уведомления."
+
+#: includes/./class-woonti_admin.php:200
+msgid "Hi!, type - "
+msgstr "Привет!, тип - "
+
+#: includes/./class-woonti_admin.php:204
+msgid "onHide"
+msgstr "onHide"
+
+#: includes/./class-woonti_admin.php:206
+msgid ""
+"`... onHide : function (type) {YOUR_CODE_HERE} ...` - onHide function  will "
+"be fired when a message disappears."
+msgstr ""
+"`... onHide : function (type) {YOUR_CODE_HERE} ...` - метод, который "
+"срабатывает при закрытии уведомления."
+
+#: includes/./class-woonti_admin.php:208
+msgid "Bye Bye!, type - "
+msgstr "Пока!, тип сообщения - "
+
+#: includes/./class-woonti_admin.php:249 includes/./class-woonti_admin.php:250
+msgid "Notifications"
+msgstr "Уведомления"
+
+#: includes/./class-woonti_admin.php:468
+msgid "Settings Saved"
+msgstr "Настройки сохранены"
+
+#: includes/./class-woonti_admin.php:483 includes/./class-woonti_install.php:34
+msgid "Settings"
+msgstr "Настройки"
+
+#: includes/./class-woonti_admin.php:484
+msgid "Deep customizations of pop-up notifications."
+msgstr "Расширенная настройка всплывающих уведомлений."
+
+#: includes/./class-woonti_admin.php:486 includes/./class-woonti_install.php:35
+msgid "Send money to me"
+msgstr "Перевести средства"
+
+#: includes/./class-woonti_admin.php:490
+msgid "Save Settings"
+msgstr "Сохранить"
+
+#: includes/./class-woonti_install.php:34
+msgid "Visit WooNti settings"
+msgstr "Настройки"
+
+#: includes/./class-woonti_install.php:35
+msgid "Donate"
+msgstr "Помощь"
+
+#~ msgid "View documentation"
+#~ msgstr "Просмотреть документацию"
+
+#~ msgid "Documentation"
+#~ msgstr "Документация"
+
+#~ msgid "Improves notifications for your WooCommerce store."
+#~ msgstr "Улучшенные уведомления для вашего WooCommerce магазина."
+
+#~ msgid ""
+#~ "Specifies the way in which the notification will be inserted in the html "
+#~ "code. Yes - and the messages will be inserted before those already "
+#~ "generated message, No - otherwise"
+#~ msgstr ""
+#~ "Порядок отображения сообщений. Да - новые сообщения появляются под "
+#~ "старыми сообщениями. Нет - наоборот."
+
+#~ msgid ""
+#~ "Specifies the way in which the notification will be inserted in the html "
+#~ "code. Yes -  and the messages will be inserted before those already "
+#~ "generated message, No - otherwise"
+#~ msgstr ""
+#~ "Порядок отображения сообщений. Да - новые сообщения появляются под "
+#~ "старыми сообщениями. Нет - наоборот."
+
+#~ msgid "Enable Mega Menu"
+#~ msgstr "Включить мега меню"
+
+#~ msgid "Column Title"
+#~ msgstr "Заголовок столбца"
+
+#~ msgid "Columns"
+#~ msgstr "Колонки"
+
+#~ msgid "As title"
+#~ msgstr "Это заголовок"
+
+#~ msgid "First column"
+#~ msgstr "Первая колонка"
+
+#~ msgid "Second column"
+#~ msgstr "Вторая колонка"
+
+#~ msgid "Third column"
+#~ msgstr "Третья колонка"
+
+#~ msgid "Fourth column"
+#~ msgstr "Четвертая колонка"
+
+#~ msgid "Widget Area %s"
+#~ msgstr "Область виджетов %s"
+
+#~ msgid "The area where widgets are displayed."
+#~ msgstr "Область, где отображаются виджеты."
+
+#~ msgid "Hide the title?"
+#~ msgstr "Скрыть заголовок?"
+
+#~ msgid "Add line below widget?"
+#~ msgstr "Добавить линию (разделитель) после виджета?"
+
+#~ msgid "Aside"
+#~ msgstr "Сайдбар"
+
+#~ msgid "Widget Field"
+#~ msgstr "Поле виджета"
+
+#~ msgid "Footer"
+#~ msgstr "Подвал"
+
+#~ msgid "Appearance Settings"
+#~ msgstr "Настройки внешнего вида"
+
+#~ msgid "Border Settings"
+#~ msgstr "Настройка границы"
+
+#~ msgid "Widget Label"
+#~ msgstr "Метка виджета"
+
+#~ msgid "Large devices"
+#~ msgstr "Десктопы"
+
+#~ msgid "Medium devices"
+#~ msgstr "Лэптопы"
+
+#~ msgid "Small devices"
+#~ msgstr "Планшеты"
+
+#~ msgid "Extra small devices"
+#~ msgstr "Телефоны"
+
+#~ msgid "Height (in px)"
+#~ msgstr "Высота (в пкс)"
+
+#~ msgid "Left border of the widget?"
+#~ msgstr "Вкл. левую границу виджета?"
+
+#~ msgid "&mdash; Select &mdash;"
+#~ msgstr "&mdash; Выбрать &mdash;"
+
+#~ msgid "Show"
+#~ msgstr "Показать"
+
+#~ msgid "Hide"
+#~ msgstr "Спрятать"
+
+#~ msgid "Width "
+#~ msgstr "Ширина "
+
+#~ msgid "Recent Comments"
+#~ msgstr "Последние комментарии"
+
+#~ msgid "Title:"
+#~ msgstr "Заголовок:"
+
+#~ msgid "Number of reviews to show"
+#~ msgstr "Количество отображаемых отзывов"
+
+#~ msgid "Custom CSS class"
+#~ msgstr "Пользовательские CSS классы"
+
+#~ msgid "All pages"
+#~ msgstr "Все страницы"
+
+#~ msgid "Homepage"
+#~ msgstr "Главная"
+
+#~ msgid "Blog"
+#~ msgstr "Блог"
+
+#~ msgid "Archive"
+#~ msgstr "Архив"
+
+#~ msgid "Tag"
+#~ msgstr "Тег"
+
+#~ msgid "404 page"
+#~ msgstr "404 страница"
+
+#~ msgid "Flickr ID"
+#~ msgstr "Идентификатор Flickr"
+
+#~ msgid "Horizontal icons"
+#~ msgstr "Горизонтальные иконки"
+
+#~ msgid "Link:"
+#~ msgstr "Ссылка:"
+
+#~ msgid "Remove"
+#~ msgstr "Удалить"
+
+#~ msgid "Right"
+#~ msgstr "Справа"
+
+#~ msgid "Text:"
+#~ msgstr "Текс:"
+
+#~ msgid "Dropdown"
+#~ msgstr "Выпадающее меню"
+
+#~ msgid "Horizontal"
+#~ msgstr "По горизонтали"
+
+#~ msgid "Simple"
+#~ msgstr "Простой"
+
+#~ msgid "Widget ID"
+#~ msgstr "ID виджета"
+
+#~ msgid "Carousels"
+#~ msgstr "Карусели"
+
+#~ msgid "Add new carousel"
+#~ msgstr "Новая карусель"
+
+#~ msgid "Add carousel"
+#~ msgstr "Добавить карусель"
+
+#~ msgid "Add new slide"
+#~ msgstr "Добавить новый слайд"
+
+#~ msgid "Add slide"
+#~ msgstr "Добавить слайд"
+
+#~ msgid "Theme Settings"
+#~ msgstr "Настройки темы"
+
+#~ msgid "Row stretch"
+#~ msgstr "Растяжение блока"
+
+#~ msgid "Select stretching options for row and content."
+#~ msgstr "Выберите опцию растяжения блока и контента."
+
+#~ msgid "Extra css classes"
+#~ msgstr "Дополнительные классы"
+
+#~ msgid "Adds extra CSS classes to carousel classes list."
+#~ msgstr "Добавьте дополнительные классы в список."
+
+#~ msgid "Padding"
+#~ msgstr "Внутренние отступы"
+
+#~ msgid "Adds padding to carousel."
+#~ msgstr "Добавить внутренние отступы для карусели."
+
+#~ msgid "Top"
+#~ msgstr "Сверху"
+
+#~ msgid "Bottom"
+#~ msgstr "Снизу"
+
+#~ msgid "Margin"
+#~ msgstr "Внешние отступы"
+
+#~ msgid "Adds margin to carousel."
+#~ msgstr "Добавить внешние отступы для карусели."
+
+#~ msgid "Border"
+#~ msgstr "Рамка"
+
+#~ msgid "Adds border to carousel."
+#~ msgstr "Добавить рамку для карусели."
+
+#~ msgid "Unit"
+#~ msgstr "Единица измерения"
+
+#~ msgid "px"
+#~ msgstr "пкс"
+
+#~ msgid "Remove background image"
+#~ msgstr "Удалить фоновое изображение"
+
+#~ msgid "Easing"
+#~ msgstr "Сглаживание анимации"
+
+#~ msgid "Height"
+#~ msgstr "Высота"
+
+#~ msgid "Width"
+#~ msgstr "Ширина"
+
+#~ msgid "Visible"
+#~ msgstr "Видимость"
+
+#~ msgid "Min"
+#~ msgstr "Мин"
+
+#~ msgid "Max"
+#~ msgstr "Макс"
+
+#~ msgid "Start"
+#~ msgstr "Старт"
+
+#~ msgid "Scroll Items"
+#~ msgstr "Прокрутка элементов"
+
+#~ msgid "Layout"
+#~ msgstr "Макет"
+
+#~ msgid "Dots settings"
+#~ msgstr "Настройка точек"
+
+#~ msgid "Sets the style, color, size and position of the dots."
+#~ msgstr "Задает стиль, цвет, размер и положение точек."
+
+#~ msgid "Dots"
+#~ msgstr "Точки"
+
+#~ msgid "Numbers"
+#~ msgstr "Цифры"
+
+#~ msgid "Standart"
+#~ msgstr "Стандартный"
+
+#~ msgid "Size"
+#~ msgstr "Размер"
+
+#~ msgid "Small"
+#~ msgstr "Маленький"
+
+#~ msgid "Medium"
+#~ msgstr "Средний"
+
+#~ msgid "Large"
+#~ msgstr "Большой"
+
+#~ msgid "Position"
+#~ msgstr "Позиция"
+
+#~ msgid "Inside"
+#~ msgstr "Внутри"
+
+#~ msgid "Outside"
+#~ msgstr "Снаружи"
+
+#~ msgid "Sets the style, color, size and position of the arrows."
+#~ msgstr "Определяет стиль,цвет ,размер и позицию стрелок."
+
+#~ msgid "W/o background"
+#~ msgstr "Без фона"
+
+#~ msgid "Sets the tiles type."
+#~ msgstr "Определяет тип плитки."
+
+#~ msgid "New Google Font"
+#~ msgstr "Новый Google шрифт"
+
+#~ msgid ""
+#~ "Adds a new <a href=\"https://fonts.google.com/\" target=\"_blank\">Google "
+#~ "Font</a> in the editor."
+#~ msgstr ""
+#~ "Добавляет новый <a href=\"https://fonts.google.com/\" target=\"_blank"
+#~ "\">Google шрифт</a> в редакторе."
+
+#~ msgid "Button"
+#~ msgstr "Кнопка"
+
+#~ msgid "URL"
+#~ msgstr "УРЛ"
+
+#~ msgid "Simple menu"
+#~ msgstr "Простое меню"
+
+#~ msgid "Add icon"
+#~ msgstr "Добавить иконку"
+
+#~ msgid "Edit"
+#~ msgstr "Изменить"
+
+#~ msgid "Search Section"
+#~ msgstr "Секция поиска"
+
+#~ msgid "Layout Parameters"
+#~ msgstr "Параметры макета"
+
+#~ msgid "Sets the layout settings."
+#~ msgstr "Установить тип макета страниц для всего сайта."
+
+#~ msgid "Preloader"
+#~ msgstr "Прелоадер"
+
+#~ msgid "Remove content area"
+#~ msgstr "Спрятать контент"
+
+#~ msgid "Select the slider:"
+#~ msgstr "Выберите слайдер:"
+
+#~ msgid "--- Choose Slider ---"
+#~ msgstr "--- Cлайдер ---"
+
+#~ msgid "Create your first slider"
+#~ msgstr "Создайте ваш первый слайдер"
+
+#~ msgid "Shortcodes"
+#~ msgstr "Шорткоды"
+
+#~ msgid "Sidebar Parameters"
+#~ msgstr "Параметры слайдера"
+
+#~ msgid "Sidebar"
+#~ msgstr "Боковая колонка"
+
+#~ msgid "Theme settings"
+#~ msgstr "Настройки темы"
+
+#~ msgid "All windows"
+#~ msgstr "Все окна"
+
+#~ msgid "Modal Windows"
+#~ msgstr "Модальные окна"
+
+#~ msgid "Add new"
+#~ msgstr "Добавить новое"
+
+#~ msgid "Add window"
+#~ msgstr "Добавить окно"
+
+#~ msgid "Edit modal window"
+#~ msgstr "Редактировать"
+
+#~ msgid "New modal window"
+#~ msgstr "Новое модальное окно"
+
+#~ msgid "View modal window"
+#~ msgstr "Просмотреть модальное окно"
+
+#~ msgid "Search modal windows"
+#~ msgstr "Поиск модального окна"
+
+#~ msgid "Modal windows not found"
+#~ msgstr "Модальное окно не найдено"
+
+#~ msgid "Parent modal window:"
+#~ msgstr "Родительское модальное окно:"
+
+#~ msgid "No modal windows found in Trash."
+#~ msgstr "Модальных окон в корзине не найдено."
+
+#~ msgid "All carousels"
+#~ msgstr "Все карусели"
+
+#~ msgid "All Carousels"
+#~ msgstr "Все карусели"
+
+#~ msgid "Edit carousel"
+#~ msgstr "Изменить карусель"
+
+#~ msgid "New carousel"
+#~ msgstr "Новая карусель"
+
+#~ msgid "View carousel"
+#~ msgstr "Просмотреть карусель"
+
+#~ msgid "Search carousel"
+#~ msgstr "Поиск карусели"
+
+#~ msgid "Slides not found"
+#~ msgstr "Слайды не найдены"
+
+#~ msgid "Parent carousels:"
+#~ msgstr "Родительская карусель:"
+
+#~ msgid "No carousels found in Trash."
+#~ msgstr "Карусели не найдены в корзине."
+
+#~ msgid "Slides"
+#~ msgstr "Слайды"
+
+#~ msgid "Slide"
+#~ msgstr "Слайд"
+
+#~ msgid "All slides"
+#~ msgstr "Все слайды"
+
+#~ msgid "Edit slide"
+#~ msgstr "Редактировать слайд"
+
+#~ msgid "New slide"
+#~ msgstr "Новый слайд"
+
+#~ msgid "View slide"
+#~ msgstr "Просмотреть слайд"
+
+#~ msgid "Search slides"
+#~ msgstr "Поиск слайдов"
+
+#~ msgid "Parent slide:"
+#~ msgstr "Родительские слайды:"
+
+#~ msgid "No slides found in Trash."
+#~ msgstr "Не найдено слайдов в корзине."
+
+#~ msgid "All tiles"
+#~ msgstr "Все плитки"
+
+#~ msgid "Search tiles"
+#~ msgstr "Поиск плиток"
+
+#~ msgid "Animated icon"
+#~ msgstr "Анимированная иконка"
+
+#~ msgid "Icon size in px."
+#~ msgstr "Размер иконки в пкс."
+
+#~ msgid "Countdown"
+#~ msgstr "Счетчик"
+
+#~ msgid "Hint"
+#~ msgstr "Подсказка"
+
+#~ msgid "Adds a simple popover hint"
+#~ msgstr "Добавляет простую всплывающую подсказку"
+
+#~ msgid "Horizontal alignment"
+#~ msgstr "Горизонтальное выравнивание"
+
+#~ msgid "Sets the title style."
+#~ msgstr "Установить стиль заголовка."
+
+#~ msgid "Design options"
+#~ msgstr "Варианты оформления"
+
+#~ msgid "Default sorting"
+#~ msgstr "По умолчанию"
+
+#~ msgid "Sort by name"
+#~ msgstr "По имени"
+
+#~ msgid "Sort by date"
+#~ msgstr "По дате"
+
+#~ msgid "Sort by category"
+#~ msgstr "По категории"
+
+#~ msgid "Sort by random"
+#~ msgstr "Случайно"
+
+#~ msgid "project"
+#~ msgstr "проект"
+
+#~ msgid "projects"
+#~ msgstr "проекты"
+
+#~ msgid "category"
+#~ msgstr "категория"
+
+#~ msgid "categories"
+#~ msgstr "категории"
+
+#~ msgid " in "
+#~ msgstr " в "
+
+#~ msgid "Creates a simple portfolio"
+#~ msgstr "Создание простого портфолио"
+
+#~ msgid ""
+#~ "Select the grid (if grid has already attached projects, following "
+#~ "parameter can be skipped)."
+#~ msgstr ""
+#~ "Выберите сетку (если сетка уже задана для проектов, параметр может быть "
+#~ "пропущен)."
+
+#~ msgid "Select the projects."
+#~ msgstr "Выберите проекты."
+
+#~ msgid "Search for:"
+#~ msgstr "Искать:"
+
+#~ msgid "Search"
+#~ msgstr "Поиск"
+
+#~ msgid "Adds a simple search box"
+#~ msgstr "Простое поле поиска"
+
+#~ msgid "Placeholder"
+#~ msgstr "Заполнитель"
+
+#~ msgid "What you search?"
+#~ msgstr "Что вы ищите?"
+
+#~ msgid "Form style"
+#~ msgstr "Стиль формы"
+
+#~ msgid "Sets the style for the form and its elements."
+#~ msgstr "Установить стиль формы и ее элементов."
+
+#~ msgid "Button style"
+#~ msgstr "Стиль кнопки"
+
+#~ msgid "Text alignment"
+#~ msgstr "Выравнивание текста"
+
+#~ msgid "Social Sharing"
+#~ msgstr "Соц. кнопки"
+
+#~ msgid "Adds simple social sharing block"
+#~ msgstr "Добавление простого блока с соц. кнопками (шаринг)"
+
+#~ msgid "Vertical Title"
+#~ msgstr "Вертикальный заголовок"
+
+#~ msgid "Adds a vertical title"
+#~ msgstr "Установить вертикальный заголовок"
+
+#~ msgid "Sets block height in px (default 185px)."
+#~ msgstr "Высота блока в px. (по умолчанию 185 px)."
+
+#~ msgid "Sets the horizontal alignment."
+#~ msgstr "Горизонтальное выравнивание."
+
+#~ msgid "Line position"
+#~ msgstr "Позиция линии"
+
+#~ msgid "Sets line alignment."
+#~ msgstr "Устанавливает выравнивание линии."
+
+#~ msgid "Sets block height in px (default 140px)."
+#~ msgstr "Установить высоту блока в пикселях (по умолчанию 140 пикселей)."
+
+#~ msgid "Grid Templates"
+#~ msgstr "Шаблоны сетки"
+
+#~ msgid "e.g.: https://fonts.googleapis.com/css?family=Roboto:400,400i,500"
+#~ msgstr ""
+#~ "например.: https://fonts.googleapis.com/css?family=Roboto:400,400i,500"
+
+#~ msgid "Add"
+#~ msgstr "Добавить"
