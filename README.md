@@ -1,6 +1,6 @@
 # WooNti
 
-WooNti - simple, beautiful, native and multifunctional WordPress notification plugin for your WooCommerce online store.
+[WooNti](https://wordpress.org/plugins/woonti/) - simple, beautiful, native and multifunctional WordPress notification plugin for your WooCommerce online store.
 The plugin is built using modern technologies and has flexible and easily customizable solutions on the PHP / JS languages. With help of the Woonti plugin you can easily configure any type of notifications in the store and forget about the boring standard WooCommerce notifications.
 
 
