@@ -12,7 +12,7 @@ Glad to have your support. More awesomes coming soon!
 | :---: | :--- |
 | PayPal | [https://www.paypal.me/al5dy](https://www.paypal.me/al5dy/5usd) |
 | YandexMoney | [https://money.yandex.ru/to/410012328678499](https://money.yandex.ru/to/410012328678499) |
-| SUMO | `Sumoo5pF6fX5D7W6YhU7GrfMkVfzb7YJXDK6NjkHD877Py9p3NusnYcT5fdTAJ7PfNF3G8YxLN7mwHMZDFrqrMBu1mNq4BsYGLB` |
+| WMZ | `Z337484456205` |
 | XMR | `48miDYP3ndh1P8fHfaDDdPHzQQQHfo8nRHMiWKYcWiqMTrY9uNkBUJiHNKBg8zWEx875JtpyQBtcA6BzVsyHowKA42ARwZh` |
 
 

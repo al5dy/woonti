@@ -1,6 +1,6 @@
 === WooNti ===
 Contributors: al5dy
-Donate link: https://www.paypal.me/al5dy
+Donate link: https://www.paypal.me/al5dy/5usd
 Tags: alert, alert notice box, notifications, woocommerce, store, sales, cart notifications, woo, messages, alerts, sound notifications, store, shop messages, e commerce, user notifications, wordpress notifications
 Requires at least: 4.7
 Tested up to: 4.9
